@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Body mass index</string>
+    <string name="height">Рост, см</string>
+    <string name="weight">Вес, кг</string>
+    <string name="calc">Рассчитать</string>
+    <string name="weight_index">Индекс массы тела</string>
+    <string name="recomend_text">Рекомендации</string>
+</resources>
